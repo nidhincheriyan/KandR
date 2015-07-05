@@ -1,3 +1,5 @@
+/*program to print the histogram of character occurance (vertical)*/
+
 #include<stdio.h>
 //#define WORD 1
 void main()
