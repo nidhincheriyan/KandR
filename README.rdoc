@@ -1,1 +1,1 @@
-Solutions to the excircises in <b><i>The C Programming Language</i><b>,second edition, By <b>Barian W. Kernighan and Dennis M. Ritchie<b>
+Solutions to the excircises in <b><i>The C Programming Language</i></b>,second edition, By <b>Barian W. Kernighan and Dennis M. Ritchie</b>
